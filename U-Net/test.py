@@ -35,8 +35,8 @@ from unet import UNet
 from utils.utils import plot_img_and_mask
 ''''Permet d'effectuer la phase de test des images presentes dans dir_img'''
 
-dir_img = Path('./data_test_final/3/imgs/')
-dir_mask = Path('./data_test_final/3/masks/')
+dir_img = Path('./data_test/imgs/')
+dir_mask = Path('./data_test/masks/')
 dir_model= Path('./model5.pth')
 img_scale=0.5
 
