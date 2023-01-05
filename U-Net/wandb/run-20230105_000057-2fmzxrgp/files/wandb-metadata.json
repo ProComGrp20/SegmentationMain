@@ -1,0 +1,92 @@
+{
+    "os": "Linux-5.10.102.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.12",
+    "heartbeatAt": "2023-01-04T23:00:57.978972",
+    "startedAt": "2023-01-04T23:00:57.253352",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-c",
+        "5",
+        "-e",
+        "5",
+        "-b",
+        "8"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/nicoa/OneDrive/Bureau/Projet_3A/SegmentationMain/U-Net/train.py",
+    "codePath": "U-Net/train.py",
+    "git": {
+        "remote": "https://github.com/ProComGrp20/SegmentationMain.git",
+        "commit": "9a7e1f8bd524860fef5f726598aa426d31bcbdef"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/nicoa/OneDrive/Bureau/Projet_3A/SegmentationMain",
+    "host": "LAPTOP-Nicolas",
+    "username": "nicolasaidoune",
+    "executable": "/home/nicolasaidoune/miniconda3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2495.99,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.99,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.98248672485352,
+        "used": 44.023338317871094
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.678752899169922
+    }
+}
