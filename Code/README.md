@@ -9,3 +9,12 @@ Pour ce faire, nous avons mis au point un algorithme de segmentation automatique
 # Contenu
 
 Ce github contient le code permettant d'effectuer la segmentation automatique. Il contient également le poster résumant le projet ainsi que la méthode permettant d'effectuer une segmentation manuelle pour préparer les données.
+
+# Crédits
+
+Nicolas Aîdoune
+Matthias Franco
+Margaux Nussbaumer
+Fayssal Zeggar
+IMT Atlantique
+LATIM 
